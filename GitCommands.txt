@@ -4,3 +4,25 @@ git status – Check the status of your files
 git add – Stage changes for commit
 git commit – Save changes to history
 git log – View commit history
+
+1️⃣ git init – Initialize a Repository
+Creates a new Git repository in the current folder.
+
+2️⃣ git clone – Copy a Repository
+Copies an existing repository from a remote location (like GitHub) to your computer.
+
+3️⃣ git status – Check Current Changes
+Tells you:
+
+Which files are untracked (new)
+Which files are modified
+Which files are staged for commit
+
+4️⃣ git add – Stage Changes
+Moves files from the Working Directory to the Staging Area.
+
+5️⃣ git commit – Save Changes
+Takes everything in the staging area and saves it to the repository history.
+
+6️⃣ git log – View Commit History
+Displays the list of all commits with author, date, and message.
