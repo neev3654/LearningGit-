@@ -1,6 +1,6 @@
-git init – Initialize a repository
-git clone – Copy a repository
-git status – Check the status of your files
-git add – Stage changes for commit
-git commit – Save changes to history
-git log – View commit history
+git init – Initialize a repository.
+git clone – Copy a repository.
+git status – Check the status of your files.
+git add – Stage changes for commit.
+git commit – Save changes to history.
+git log – View commit history.
